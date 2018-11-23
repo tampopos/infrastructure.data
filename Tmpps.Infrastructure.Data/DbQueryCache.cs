@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using Tmpps.Infrastructure.Common.Data.Configuration.Interfaces;
-using Tmpps.Infrastructure.Common.Data.Interfaces;
 using Tmpps.Infrastructure.Common.IO.Interfaces;
+using Tmpps.Infrastructure.Data.Configuration.Interfaces;
+using Tmpps.Infrastructure.Data.Interfaces;
 
-namespace Tmpps.Infrastructure.Common.Data
+namespace Tmpps.Infrastructure.Data
 {
     public class DbQueryCache : IDbQueryCache
     {

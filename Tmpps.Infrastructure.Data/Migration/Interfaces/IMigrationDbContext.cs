@@ -1,6 +1,6 @@
-using Tmpps.Infrastructure.Common.Data.Entity.Interfaces;
+using Tmpps.Infrastructure.Data.Entity.Interfaces;
 
-namespace Tmpps.Infrastructure.Common.Data.Migration.Interfaces
+namespace Tmpps.Infrastructure.Data.Migration.Interfaces
 {
     public interface IMigrationDbContext : IDbContext
     {

@@ -1,4 +1,4 @@
-namespace Tmpps.Infrastructure.Common.Data.Configuration.Interfaces
+namespace Tmpps.Infrastructure.Data.Configuration.Interfaces
 {
     public interface IDbConfig
     {

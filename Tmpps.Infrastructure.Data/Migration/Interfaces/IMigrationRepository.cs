@@ -1,7 +1,7 @@
 using System.Threading.Tasks;
-using Tmpps.Infrastructure.Common.Data.Interfaces;
+using Tmpps.Infrastructure.Data.Interfaces;
 
-namespace Tmpps.Infrastructure.Common.Data.Migration.Interfaces
+namespace Tmpps.Infrastructure.Data.Migration.Interfaces
 {
     public interface IMigrationRepository<TMigrationHistory> : IRepository<TMigrationHistory> where TMigrationHistory : class, IMigrationHistory
     {

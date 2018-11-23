@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Data;
 
-namespace Tmpps.Infrastructure.Common.Data.Interfaces
+namespace Tmpps.Infrastructure.Data.Interfaces
 {
     public interface IDbQuery
     {

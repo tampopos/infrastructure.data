@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Data;
 using System.Threading;
 using System.Threading.Tasks;
-using Tmpps.Infrastructure.Common.Data.Interfaces;
+using Tmpps.Infrastructure.Data.Interfaces;
 
-namespace Tmpps.Infrastructure.Common.Data.Entity.Interfaces
+namespace Tmpps.Infrastructure.Data.Entity.Interfaces
 {
     public interface IDbContext : IDbTransactionManager
     {

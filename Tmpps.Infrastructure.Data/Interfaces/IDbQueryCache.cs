@@ -1,4 +1,4 @@
-namespace Tmpps.Infrastructure.Common.Data.Interfaces
+namespace Tmpps.Infrastructure.Data.Interfaces
 {
     public interface IDbQueryCache
     {

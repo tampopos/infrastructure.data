@@ -1,4 +1,4 @@
-namespace Tmpps.Infrastructure.Common.Data.Migration.Interfaces
+namespace Tmpps.Infrastructure.Data.Migration.Interfaces
 {
     public interface IMigrationConfig
     {

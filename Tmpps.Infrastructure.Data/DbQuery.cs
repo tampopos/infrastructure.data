@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Text;
-using Tmpps.Infrastructure.Common.Data.Interfaces;
+using Tmpps.Infrastructure.Data.Interfaces;
 
-namespace Tmpps.Infrastructure.Common.Data
+namespace Tmpps.Infrastructure.Data
 {
     /// <summary>
     /// Sql構築クラス
